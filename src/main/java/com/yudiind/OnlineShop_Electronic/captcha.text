@@ -1,0 +1,35 @@
+
+nama akun digoogle = shop.electronic212@gmail.com
+password akun digoogle = wsxcde123
+password app = fbcc kxtb ogqr nmnf
+
+site key = 6LcX0isqAAAAAH9J9wxZA3bZzHTDUIaqX8zyd2yx
+secret key = 6LcX0isqAAAAANxWOzn7Y_0Vavwd9J95erAQT_T2
+
+ini contoh akun user di applikasi shop.electronic
+{
+	"firstName" : "edtri",
+	"email" : "prototipe212@gmail.com",
+	"password" : "password123",
+	"password2" : "password123"
+}
+
+{
+	"firstName" : "uyub",
+	"email" : "erniuyub@gmail.com",
+	"password" : "password321",
+	"password2" : "password321"
+
+    token didapat setelah login
+	"token" : "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJlcm5pdXl1YkBnbWFpbC5jb20iLCJyb2xlcyI6WyJVU0VSIl0sImlhdCI6MTcyNTU1MTU2MCwiZXhwIjoxNzI1NTU1MTYwfQ.lEzrr-l_B4isPZp8di-JUHfH76Ik3tltU65-qV1QJHc"
+}
+
+{
+	"firstName" : "cahyadi",
+	"email" : "iicahyadi@gmail.com",
+	"password" : "password321",
+	"password2" : "password321"
+
+    token didapat setelah login
+	"token" : "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJpaWNhaHlhZGlAZ21haWwuY29tIiwicm9sZXMiOlsiVVNFUiJdLCJpYXQiOjE3MjU1NTI4NTAsImV4cCI6MTcyNTU1NjQ1MH0.xItFTWGo6AFQ1EMboOa6NIuVIpd-2urZoNLeUQfLGPo"
+}
