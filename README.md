@@ -18,6 +18,6 @@
 -	IDE : Intellij Idea
 
 #License
-- for the service level and unit tests, the original source and licence [ Ant Kaynak] (https://github.com/antkaynak/Keyist-Ecommerce)
+- for the service level, the original source and licence [ Ant Kaynak] (https://github.com/antkaynak/Keyist-Ecommerce)
 - This project licence allows anyone to use the software freely and at no cost.
 
